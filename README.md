@@ -1,4 +1,4 @@
-# KhzRAG: Autonomous Hybrid-RAG Agent Architecture
+# KhzRAG Quiz Solver: Autonomous Hybrid-RAG Architecture
 
 ![KhzRAG Architecture](https://img.shields.io/badge/Architecture-Agentic%20Hybrid%20RAG-blue?style=for-the-badge) ![Performance](https://img.shields.io/badge/Performance-Ultra--Fast%20%28bm25s%29-success?style=for-the-badge)
 
