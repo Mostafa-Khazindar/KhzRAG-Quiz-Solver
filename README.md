@@ -1,4 +1,4 @@
-# OmniRAG Quiz Solver: The Ultimate Hybrid-RAG Agent
+# KhzRAG Quiz Solver: The Ultimate Hybrid-RAG Agent
 
 This repository contains a state-of-the-art [Antigravity](https://antigravity.google) skill designed to turn any AI agent into an expert academic assistant and ultra-fast quiz solver capable of parsing **massive corpora** (hundreds of books, gigabyte-sized PDFs, or giant Markdown codebases).
 
@@ -20,7 +20,7 @@ Clone this repository into your project's `.agents` folder:
 ```bash
 mkdir -p .agents/skills
 cd .agents/skills
-git clone https://github.com/YOUR_USERNAME/omnirag-agent.git omni-rag
+git clone https://github.com/Mostafa-Khazindar/omnirag-quiz-solver.git khzrag
 ```
 *(Note: You must have Python and `uv` installed on your system to use the advanced massive-corpus search).*
 

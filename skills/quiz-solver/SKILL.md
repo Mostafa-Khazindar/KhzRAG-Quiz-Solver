@@ -1,10 +1,10 @@
 ---
-name: omnirag-quiz-solver
+name: khzrag-quiz-solver
 description: >-
   Trigger this skill when the user asks you to solve quizzes, research topics, or extract answers from a massive corpus of textbooks, PDFs, Markdown, or Code. It orchestrates a Dynamic Hybrid Workflow, switching between exact `grep_search` and Python-based RAG depending on the corpus type.
 ---
 
-# OmniRAG Quiz Solver: Autonomous Hybrid Agent
+# KhzRAG Quiz Solver: Autonomous Hybrid Agent
 
 You are operating as an expert academic assistant powered by a Dynamic Hybrid Workflow. Your objective is to solve quizzes and extract answers from massive source materials with 100% accuracy, zero hallucination, and autonomous tool selection.
 
